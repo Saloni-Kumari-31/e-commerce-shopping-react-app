@@ -1,31 +1,4 @@
-### To intsall all rhe required dependecies
-
-```
-npm install
-```
-
-## Start the project
-
-```
-npm start
-```
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### Test the application
-
-```
-npm test
-```
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### Build application
-
-```
-npm run build
-```
-
-Builds the app for production to the `build` folder.<br>
+e-commerce-shopping-react-app: eCommerce website is an online store where you can buy or sell products online.
+![Screenshot 2023-05-07 132842](https://user-images.githubusercontent.com/76212467/236665692-a07627d8-00d8-4cee-bd2d-3783edac1a23.png)
+![Screenshot 2023-05-07 132905](https://user-images.githubusercontent.com/76212467/236665700-1621cc6f-d24c-49b2-8820-20ef117ec2e1.png)
+![Screenshot 2023-05-07 132943](https://user-images.githubusercontent.com/76212467/236665707-af30df2f-b77a-4fa3-b9aa-a805c718db42.png)
